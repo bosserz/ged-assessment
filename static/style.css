@@ -1,0 +1,23 @@
+body {
+  font-family: Arial;
+  max-width: 800px;
+  margin: auto;
+  padding: 2rem;
+}
+#timer {
+  font-size: 1.2rem;
+  margin-bottom: 1rem;
+}
+form div {
+  margin-bottom: 1rem;
+}
+
+input[type="radio"] {
+  margin-right: 5px;
+}
+
+#questionsContainer .question-block {
+  padding: 1rem;
+  border-bottom: 1px solid #ddd;
+  margin-bottom: 1rem;
+}

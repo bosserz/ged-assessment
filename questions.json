@@ -1,0 +1,207 @@
+[
+  {
+    "id": "q1",
+    "question": "Choose the correct form: 'He ___ to work by bus every day.'",
+    "options": ["go", "goes", "gone", "going"],
+    "answer": "goes",
+    "tags": ["grammar"],
+    "difficulty": "easy"
+  },
+  {
+    "id": "q2",
+    "question": "What is the synonym of 'begin'?",
+    "options": ["start", "end", "close", "stop"],
+    "answer": "start",
+    "tags": ["vocabulary"],
+    "difficulty": "easy"
+  },
+  {
+    "id": "q3",
+    "question": "Choose the correct word: 'She has ___ apples than John.'",
+    "options": ["least", "fewer", "less", "little"],
+    "answer": "fewer",
+    "tags": ["grammar"],
+    "difficulty": "easy"
+  },
+  {
+    "id": "q4",
+    "question": "Choose the correct article: '___ elephant is a large animal.'",
+    "options": ["An", "A", "The", "None"],
+    "answer": "An",
+    "tags": ["grammar"],
+    "difficulty": "easy"
+  },
+  {
+    "id": "q5",
+    "question": "What is the opposite of 'easy'?",
+    "options": ["soft", "difficult", "fast", "slow"],
+    "answer": "difficult",
+    "tags": ["vocabulary"],
+    "difficulty": "easy"
+  },
+  {
+    "id": "q6",
+    "question": "Select the correct past form: 'They ___ dinner at 7 PM yesterday.'",
+    "options": ["eat", "eats", "ate", "eated"],
+    "answer": "ate",
+    "tags": ["grammar"],
+    "difficulty": "easy"
+  },
+  {
+    "id": "q7",
+    "question": "Fill in the blank: 'I am looking ___ my keys.'",
+    "options": ["at", "for", "on", "to"],
+    "answer": "for",
+    "tags": ["grammar", "phrasal_verb"],
+    "difficulty": "easy"
+  },
+  {
+    "id": "q8",
+    "question": "Choose the correct sentence.",
+    "options": [
+      "She don’t like tea.",
+      "She doesn't likes tea.",
+      "She doesn't like tea.",
+      "She not like tea."
+    ],
+    "answer": "She doesn't like tea.",
+    "tags": ["grammar"],
+    "difficulty": "easy"
+  },
+  {
+    "id": "q9",
+    "question": "Which word is a noun?",
+    "options": ["run", "quickly", "happiness", "blue"],
+    "answer": "happiness",
+    "tags": ["vocabulary", "parts_of_speech"],
+    "difficulty": "easy"
+  },
+  {
+    "id": "q10",
+    "question": "Select the correct sentence.",
+    "options": [
+      "We was happy.",
+      "They were tired.",
+      "He go to school.",
+      "She do her homework."
+    ],
+    "answer": "They were tired.",
+    "tags": ["grammar"],
+    "difficulty": "easy"
+  },
+  {
+    "id": "q11",
+    "question": "What does the word 'generous' most nearly mean?",
+    "options": ["angry", "kind", "shy", "funny"],
+    "answer": "kind",
+    "tags": ["vocabulary"],
+    "difficulty": "medium"
+  },
+  {
+    "id": "q12",
+    "question": "Choose the correct sentence.",
+    "options": [
+      "If I was rich, I will travel.",
+      "If I were rich, I would travel.",
+      "If I am rich, I would travel.",
+      "If I were rich, I will travel."
+    ],
+    "answer": "If I were rich, I would travel.",
+    "tags": ["grammar", "conditional"],
+    "difficulty": "medium"
+  },
+  {
+    "id": "q13",
+    "question": "Choose the best word to complete: 'Although it was raining, ___ went outside.'",
+    "options": ["he", "him", "his", "he’s"],
+    "answer": "he",
+    "tags": ["grammar", "sentence_structure"],
+    "difficulty": "medium"
+  },
+  {
+    "id": "q14",
+    "question": "Identify the correct sentence with subject-verb agreement.",
+    "options": [
+      "The group of students are noisy.",
+      "The teacher and the principal was late.",
+      "Neither the cats nor the dog is outside.",
+      "Each of the boys have a pencil."
+    ],
+    "answer": "Neither the cats nor the dog is outside.",
+    "tags": ["grammar", "subject_verb_agreement"],
+    "difficulty": "medium"
+  },
+  {
+    "id": "q15",
+    "question": "What is the meaning of 'to infer'?",
+    "options": ["To guess", "To explain", "To argue", "To describe"],
+    "answer": "To guess",
+    "tags": ["vocabulary", "reading"],
+    "difficulty": "medium"
+  },
+  {
+    "id": "q16",
+    "question": "Choose the sentence that is written in passive voice.",
+    "options": [
+      "The chef cooked dinner.",
+      "Dinner was cooked by the chef.",
+      "The chef is cooking dinner.",
+      "The chef has cooked dinner."
+    ],
+    "answer": "Dinner was cooked by the chef.",
+    "tags": ["grammar", "voice"],
+    "difficulty": "medium"
+  },
+  {
+    "id": "q17",
+    "question": "Read the passage: 'Maria walked into the room and gasped. Her painting was gone.' What can you infer?",
+    "options": [
+      "Maria painted the room.",
+      "Maria liked the painting.",
+      "Maria lost her paintbrush.",
+      "Maria found a new painting."
+    ],
+    "answer": "Maria liked the painting.",
+    "tags": ["reading", "inference"],
+    "difficulty": "hard"
+  },
+  {
+    "id": "q18",
+    "question": "Which sentence uses the word 'elusive' correctly?",
+    "options": [
+      "The elusive rabbit easily avoided the hunters.",
+      "He was elusive to go to school.",
+      "The food was elusive cooked.",
+      "She elusive the ball quickly."
+    ],
+    "answer": "The elusive rabbit easily avoided the hunters.",
+    "tags": ["vocabulary", "reading"],
+    "difficulty": "hard"
+  },
+  {
+    "id": "q19",
+    "question": "Choose the sentence with correct punctuation and grammar.",
+    "options": [
+      "He said 'I am leaving now'",
+      "He said, 'I am leaving now.'",
+      "He said I am leaving now.",
+      "He said, I am leaving now."
+    ],
+    "answer": "He said, 'I am leaving now.'",
+    "tags": ["grammar", "punctuation"],
+    "difficulty": "hard"
+  },
+  {
+    "id": "q20",
+    "question": "What does the idiom 'break the ice' mean?",
+    "options": [
+      "To destroy something cold",
+      "To start a conversation in a social setting",
+      "To get angry quickly",
+      "To avoid a situation"
+    ],
+    "answer": "To start a conversation in a social setting",
+    "tags": ["idiom", "reading", "vocabulary"],
+    "difficulty": "hard"
+  }
+]
